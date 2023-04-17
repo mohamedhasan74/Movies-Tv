@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Movies-Tv/static/css/main.137db50c.css",
+    "main.js": "/Movies-Tv/static/js/main.932e9ef0.js",
+    "static/media/arabicHeader.jpg": "/Movies-Tv/static/media/arabicHeader.c0dd1def28c02df6a494.jpg",
+    "static/media/fa-solid-900.ttf": "/Movies-Tv/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/indianHeadertv.jpg": "/Movies-Tv/static/media/indianHeadertv.224e0100461e7ba08e09.jpg",
+    "static/media/fa-brands-400.ttf": "/Movies-Tv/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/arabicHeadertv.jpg": "/Movies-Tv/static/media/arabicHeadertv.72b0c033c4730460fffe.jpg",
+    "static/media/fa-solid-900.woff2": "/Movies-Tv/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/indianHeader.jpg": "/Movies-Tv/static/media/indianHeader.7be4bea61e7368efbf69.jpg",
+    "static/media/englishHeader.jpg": "/Movies-Tv/static/media/englishHeader.261fea47755f9831c55d.jpg",
+    "static/media/fa-brands-400.woff2": "/Movies-Tv/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/mainHeader.jfif": "/Movies-Tv/static/media/mainHeader.822d499fbb7526585a80.jfif",
+    "static/media/fa-regular-400.ttf": "/Movies-Tv/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/defImg0.jpg": "/Movies-Tv/static/media/defImg0.839888efda73afbbf4fe.jpg",
+    "static/media/englishHeadertv.jpg": "/Movies-Tv/static/media/englishHeadertv.0211553965520a8809fd.jpg",
+    "static/media/fa-regular-400.woff2": "/Movies-Tv/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/defCast.png": "/Movies-Tv/static/media/defCast.94133b0cc4e17f558fe6.png",
+    "static/media/fa-v4compatibility.ttf": "/Movies-Tv/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Movies-Tv/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/Movies-Tv/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Movies-Tv/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Movies-Tv/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Movies-Tv/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Movies-Tv/index.html",
+    "main.137db50c.css.map": "/Movies-Tv/static/css/main.137db50c.css.map",
+    "main.932e9ef0.js.map": "/Movies-Tv/static/js/main.932e9ef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.137db50c.css",
+    "static/js/main.932e9ef0.js"
+  ]
+}
